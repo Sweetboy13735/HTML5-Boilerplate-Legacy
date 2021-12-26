@@ -3,6 +3,9 @@
 
 This repository is responsible for managing my custom HTML5 Boilerplate, forked from [the official HTML5 Boilerplate repo](https://github.com/h5bp/html5-boilerplate).
 
+## Installation
+To use the template, simply copy the source files to your working directory. Then you are free to use the template as you wish!
+
 ## Support
 If you encounter any issues with the boilerplate, please feel free to [create an issue](https://github.com/Sweetboy13735/HTML5-Boilerplate/issues) (Provided it hasn't been logged already) or [E-mail me](mailto:ramonegraham@gmail.com), describing fully what the problem is.
 
