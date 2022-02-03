@@ -1,4 +1,4 @@
-# Sweetboy13735's Portfolio Website
+# Sweetboy's HTML5 Boilerplate
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/Sweetboy13735/HTML5-Boilerplate/blob/main/CODE_OF_CONDUCT.md)
 
 This repository is responsible for managing my custom HTML5 Boilerplate, forked from [the official HTML5 Boilerplate repo](https://github.com/h5bp/html5-boilerplate).
